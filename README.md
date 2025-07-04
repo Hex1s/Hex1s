@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, my name is Stanislav Davydov 👋
+## 🔧 Frontend-developer
 
-<!--
-**Hex1s/Hex1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ My Tech Stack
 
-Here are some ideas to get you started:
+### **Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)　
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)　
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+
+### **Styling**  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss)　
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
+
+### **Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+## 📫 How to Reach Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Hex11s)　
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Yandex&logoColor=white)](mailto:hex1s@yandex.ru)
