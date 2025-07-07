@@ -10,6 +10,7 @@
 
 ### **Backend**
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ffffff?logo=laravel)
 
 ### **Styling**  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)　
